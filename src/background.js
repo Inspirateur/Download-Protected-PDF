@@ -1,4 +1,4 @@
-console.log("bonjour");
+console.log("Download Protected PDF is running");
 var urls = {}
 
 browser.webRequest.onBeforeRequest.addListener(
