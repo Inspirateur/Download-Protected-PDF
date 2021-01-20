@@ -22,5 +22,12 @@
     "default_icon": "icons/icon_32.png",
     "default_title": "Download Protected PDF",
     "default_popup": "popup.html"
+  },
+  
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "download-protected-pdf@inspirateur.pro",
+      "strict_min_version": "57.0"
+    }
   }
 }
