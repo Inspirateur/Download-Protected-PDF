@@ -1,6 +1,6 @@
 # Download-Protected-PDF
 A Firefox addon to download protected PDF.
-*Note: this is not for password encrypted PDF but for webpages showing PDF in read-only.
+*Note: this is not for password encrypted PDF but for webpages showing PDF in read-only.*
 
 ## Install
 
