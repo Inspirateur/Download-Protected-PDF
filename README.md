@@ -11,8 +11,8 @@ A Firefox addon to download protected PDF.
 ## Use
 
 Visit any page that include protected PDF, and click on the addon icon, 
-you should see a list of PDF that the addon has detected, click on them to download.
+you should see a list of PDF that the addon has detected, click to download them.
 
-If the list is empty try reloading the page or waiting until the page load properly until clicking the addon.
+If the list is empty try reloading the page or waiting until the page has loaded properly before clicking the addon again.
 
 Sometimes the name of the PDF are gibberish, this is not a bug but simply the name of the PDF given by the website, you can still download it.
