@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "name": "Download Protected PDF",
+  "version": "0.0",
+
+  "description": "Self explanatory",
+
+  "icons": {
+    "48": "icons/icon_48.png",
+    "96": "icons/icon_96.png"
+  },
+
+  "permissions": [
+    "webRequest", "<all_urls>", "downloads"
+  ],
+
+  "background": {
+      "scripts": ["background.js"]
+  },
+
+  "browser_action": {
+    "default_icon": "icons/icon_32.png",
+    "default_title": "Download Protected PDF",
+    "default_popup": "popup.html"
+  }
+}
